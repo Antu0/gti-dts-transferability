@@ -25,7 +25,7 @@ The original logs of Well-1 (Kailashtila) and Well-2 (Srikail) belong to Petroba
 Python 3.10 or newer is needed.
 
 ```bash
-git clone https://github.com/YOUR-USER/gti-dts-transferability.git
+git clone https://github.com/Antu0/gti-dts-transferability.git
 cd gti-dts-transferability
 python -m venv .venv
 source .venv/bin/activate          # Windows: .venv\Scripts\activate
