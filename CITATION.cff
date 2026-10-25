@@ -3,11 +3,17 @@ message: "If you use this software, please cite it as below."
 title: "GTI-DTS: code for a geological transferability index for cross-well shear-wave slowness prediction"
 authors:
   - family-names: "Antu"
-    given-names: "FIRST NAME HERE"
+    given-names: "Md Asif Uz Zaman Antu"
     orcid: "https://orcid.org/0009-0009-8196-0823"
   - family-names: "Bhuiyan"
     given-names: "Md. Anwar Hossain"
     orcid: "https://orcid.org/0000-0002-2445-2912"
+  - family-names: "Faruk"
+    given-names: "Omar"
+  - family-names: "Mondal"
+    given-names: "Md. Abdul Matin"
+  - family-names: "Miah"
+    given-names: "Mohammad Islam"
 license: MIT
 repository-code: "https://github.com/YOUR-USER/gti-dts-transferability"
 version: 1.0.0
