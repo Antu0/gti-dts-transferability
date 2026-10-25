@@ -1,6 +1,6 @@
 # GTI-DTS: geological transferability index for cross-well shear-wave slowness prediction
 
-Code for the manuscript "A geological transferability index for cross-well uncertainty in shear-wave slowness prediction" (submitted to *Geomechanics for Energy and the Environment*).
+Code for the manuscript "A geological transferability index for cross-well uncertainty in shear-wave slowness prediction".
 
 The code trains random forest, XGBoost and neural network models for shear-wave slowness (DTS) on one well, applies them to a second well without refitting, and computes the Geological Transferability Index (GTI) with block-bootstrap uncertainty. It also reproduces the statistical tests, the accuracy-loss analysis, the calibration experiments and the geomechanical propagation.
 
