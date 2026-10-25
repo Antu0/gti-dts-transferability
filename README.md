@@ -6,7 +6,7 @@ The code trains random forest, XGBoost and neural network models for shear-wave 
 
 ## Data availability
 
-The original logs of Well-1 (Kailashtila) and Well-2 (Srikail/Bangora) belong to Petrobangla and cannot be shared. The repository contains a **synthetic dataset** (`data/synthetic`) with the same columns, units and qualitative behaviour (a depth-dependent DT-DTS slope in Well-1, a steeper slope and shifted distributions in Well-2). The synthetic values are random and do not describe any real well. Running the code on them shows that the pipeline works. The numbers differ from those in the paper. People with their own two-well data can run the same notebook on it.
+The original logs of Well-1 (Kailashtila) and Well-2 (Srikail) belong to Petrobangla and cannot be shared. The repository contains a **synthetic dataset** (`data/synthetic`) with the same columns, units and qualitative behaviour (a depth-dependent DT-DTS slope in Well-1, a steeper slope and shifted distributions in Well-2). The synthetic values are random and do not describe any real well. Running the code on them shows that the pipeline works. The numbers differ from those in the paper. People with their own two-well data can run the same notebook on it.
 
 ## Repository layout
 
