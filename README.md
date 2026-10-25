@@ -1,4 +1,7 @@
 # GTI-DTS: geological transferability index for cross-well shear-wave slowness prediction
+[![DOI](https://zenodo.org/badge/1432696244.svg)](https://doi.org/10.5281/zenodo.23629564)
+
+Archived release (v1.0.0): https://doi.org/10.5281/zenodo.23629565
 
 Code for the manuscript "A geological transferability index for cross-well uncertainty in shear-wave slowness prediction".
 
