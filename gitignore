@@ -1,0 +1,10 @@
+# Confidential field data must never be committed
+data/confidential/
+data/private/
+Well-1.csv
+Well-2.csv
+!data/synthetic/Well-1.csv
+!data/synthetic/Well-2.csv
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
